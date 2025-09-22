@@ -5,6 +5,7 @@
 1. Клонируйте репозиторий:
 
 git clone https://github.com/maxkond1/dev_on_python
+
 cd edu
 
 
